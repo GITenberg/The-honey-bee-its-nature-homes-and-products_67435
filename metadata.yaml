@@ -1,0 +1,31 @@
+_repo: The-honey-bee-its-nature-homes-and-products_67435
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harris, William Hetherington
+    birthdate: 1835
+    gutenberg_agent_id: '54268'
+    url: http://www.gutenberg.org/2009/agents/54268
+description: ''
+gutenberg_issued: '2022-02-18'
+identifiers:
+  gutenberg: '67435'
+language: en
+pgterms:marc904: https://archive.org/details/honeybeeitsnatur00harrrich
+pgterms:marc905: 20220210081035harris
+pgterms:marc906: '1887'
+pgterms:marc907: UK
+production_note: Tom Cosmas produced from materials made available at The Internet
+  Archive and placed in the Public Domain.
+publication_note: UK :The Religious Tract Society,1887.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bee culture'
+- !lcsh 'Bees'
+- !lcc 'SF'
+- !lcc 'QL'
+- GITenberg
+title: 'The honey-bee: its nature, homes and products'
+url: http://www.gutenberg.org/ebooks/67435
