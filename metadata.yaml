@@ -1,5 +1,8 @@
 _repo: The-honey-bee-its-nature-homes-and-products_67435
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67435-h/images/cover_epub.jpg
 creator:
   author:
     agent_name: Harris, William Hetherington
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '54268'
     url: http://www.gutenberg.org/2009/agents/54268
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67435#The-honey-bee-its-nature-homes-and-products
 gutenberg_issued: '2022-02-18'
 identifiers:
   gutenberg: '67435'
